@@ -2,4 +2,6 @@ git init=> intializing git
 git add -A=>adding files to staging medium
 git commit -m "your message"=>adding files to local repo
 git status=>listing all untracked files
-git push=>
+git push
+git remote add name path =>to add remote
+git push -u name master
